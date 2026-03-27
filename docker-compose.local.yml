@@ -1,7 +1,7 @@
 volumes:
   django_project_template_local_postgres_data: {}
   django_project_template_local_postgres_data_backups: {}
-  
+
 
 services:
   django:
